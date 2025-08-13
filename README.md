@@ -52,3 +52,8 @@ node src/import_excel.js ./data/data.xlsx
 - Name: (fill your name)
 - Clan: (fill clan)
 - Email: (fill email)
+
+## structure
+- data: have are composed by one data.xlsx file and and diagram with relational model of the estructure of database.
+- server: in my server are the opretions with the crud. at the time conecting with database and run the port of the project.
+- src: db.js this file import the dependiencies that are necesary in our project. also have the routes that are esentials. have the import 
